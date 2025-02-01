@@ -1,4 +1,4 @@
-##Admin Creditionals
+##Admin Credential
 
 email : admin@gmail.com
 pass : 123456
